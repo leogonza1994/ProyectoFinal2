@@ -1,0 +1,35 @@
+*{  /* el asterico (selector)selecciona todo el codigo*/
+    box-sizing: border-box;  /* ancho y alto total de un elemento*/
+    
+    }
+    body{
+    
+        margin:0;
+        background: white;
+        padding: 0;
+    }
+    
+    .bloquetitulo{
+    
+        font-size: 30px;
+        letter-spacing: 1px;
+        padding: 45px 0px;
+        color:#ffffff;
+        text-align: center;
+        font-family: cursive;
+    }
+    .parrafotitulo{
+    
+        letter-spacing: 1px;
+        font-family: cursive;
+        color: rgba(0, 119, 255, 0.719);
+        font-size: 26px;
+        margin-top: -30px;
+        text-align: center;
+    }
+    
+    .iconossys{
+    
+    padding-top: 55px;
+    align-content: center;
+    }

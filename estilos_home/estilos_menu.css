@@ -1,0 +1,74 @@
+
+
+.iconohtml{ /* estructura {} */
+
+background: black; /* propiedad background */
+padding-top:10px;
+ 
+}
+.img_logo{
+
+    width: 200px;
+    height: 200px;
+    margin: 0 auto; /* 0 arriba-abajo, auto derecha_izquierda, calcule el margen y ocupe el espacio disponible */
+    display: block;
+
+}
+#navbarNav{
+    margin-right: 10%;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    
+   
+ }
+
+ #navbarNav li{
+    padding: 5px 10px 5px 10px;
+   
+ }
+
+
+
+.img-fluid{
+
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.nosotros .img-nosotros{
+    min-height: 30rem ;
+}
+
+.img-nosotros{
+    background-image: url(../imagenes_home/IT.jpg);
+    
+}
+.texto1{
+
+    text-align: center;
+    color: white;
+}
+.img-pc{
+
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  form{
+      margin: auto;
+      width: 60%;
+  }
+
